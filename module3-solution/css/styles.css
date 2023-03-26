@@ -1,0 +1,16 @@
+.bg-gray {
+		background-color: #d9dbe3;
+}
+
+p {
+	text-align: justify;
+}
+
+nav.navbar-collapse ul li {
+	text-align: center;
+	border: 1px solid #dee2e6;
+}
+
+nav.navbar-collapse ul li a:hover {
+	color: #0d6efd;
+}
